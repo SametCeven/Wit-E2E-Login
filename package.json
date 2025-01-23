@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "cypress": "^14.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^9.2.3",
+    "start-server-and-test": "^2.0.10"
+  }
+  
+}
